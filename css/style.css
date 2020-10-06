@@ -1,0 +1,8 @@
+#mainContainer{
+    display: flex;
+}
+
+#command, #aboutHw {
+    width: 50%;
+}
+body{background-color: dodgerblue}
